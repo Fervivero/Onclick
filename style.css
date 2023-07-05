@@ -1,0 +1,153 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.nav {
+    background-color: #cacaca;
+    display:flex;
+    align-items: center;
+    margin-left: 220px;
+    margin-right: 550px;
+}
+
+h1 {
+    color: black;
+    padding-left:20px;
+    font-size: 60px;
+    font-family:'Arial Narrow';
+}
+
+h4, p {
+    font-size: 20px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+#h1, h2, h4, h5{
+    margin-left: 20px;
+    
+}
+
+input{
+    font-family: 'Arial Narrow';
+    background-color: white;
+    width: 200px;
+    margin-left: 50px;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 4px;
+}
+
+.btn {
+    font-family: 'Arial Narrow';
+    background-color: #2B77E4;
+    box-shadow: 3px 1px #212529;
+    color: white;
+    border-color: #212529;
+    margin-left: 80px;
+    width: 80px;
+    height: 30px;
+}
+
+.btn1 {
+    font-family: 'Arial Narrow';
+    background-color: #FFD866;
+    box-shadow: 3px 1px #212529;
+    color: black;
+    border-color: #212529;
+    margin-left: 20px;
+    width: 80px;
+    height: 30px;
+    position: relative;
+    bottom: 125px;
+}
+
+.container {
+    background-color: #fff;
+    border: 2px solid black;
+    display:inline-block;
+    width:420px;
+    height: 150px;
+    margin-top: 20px;
+    font-family:'Arial Narrow';
+    margin-left: 220px;
+}
+
+.container1 {
+    background-color: #fff;
+    border: 2px solid black;
+    width:420px;
+    height: 150px;
+    font-family:'Arial Narrow';
+    margin-left: 220px;
+    margin-top: 0px;
+    position: relative;
+    bottom:60px;
+}
+
+.col {
+    width: 220px;
+    padding: 45px;
+    display: flex;
+    margin-left: 150px;
+    position: relative;
+    bottom: 85px;
+    font-size: large;
+}
+
+.btn2 {
+    font-family: 'Arial Narrow';
+    background-color: #FFD866;
+    box-shadow: 3px 1px #212529;
+    color: black;
+    border-color: #212529;
+    margin-left: 20px;
+    width: 80px;
+    height: 30px;
+    position: relative;
+    bottom: 145px;
+}
+
+.col1 {
+    width: 220px;
+    padding: 45px;
+    display: flex;
+    margin-left: 140px;
+    position: relative;
+    bottom:85px;
+    font-size: large;
+}
+
+.container2 {
+    background-color: #fff;
+    border: 2px solid black;
+    display:inline-block;
+    margin-top: 120px;
+    width: 220px;
+    height: 133px;
+    margin-left: 660px;
+    font-family:'Arial Narrow';
+    position: relative;
+    bottom:518px;
+}
+
+.btn3 {
+    font-family: 'Arial Narrow';
+    background-color: #92C47C;
+    box-shadow: 3px 2px #212529;
+    color: black;
+    border-color: #212529;
+    margin-top: 10px;
+    margin-left: 35px;
+    width: 150px;
+    height: 30px;
+}
+
+p-1 {
+    font-size: 32px;
+    font-family: 'Arial Narrow';
+}
+
